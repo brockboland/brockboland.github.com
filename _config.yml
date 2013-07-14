@@ -1,0 +1,16 @@
+url: http://brockboland.com
+name: Brock Boland
+subtitle: Drupal developer, heathen atheist, Denver resident. brock@brockboland.com
+author: Brock Boland
+
+markdown: redcarpet
+pygments: true
+
+root: /
+permalink: /:year/:month/:title/
+
+
+# Github overrides
+safe: true
+lsi: false
+pygments: true

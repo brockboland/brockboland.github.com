@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<article class="post">
+  <header>
+    <h2>{{ page.title }}</h2>
+    <time pubdate="pubdate" class="meta">{{ page.date | date_to_string }}</time>
+  </header>
+
+  {{ content }}
+</article>

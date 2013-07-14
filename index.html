@@ -1,0 +1,17 @@
+---
+layout: default
+title: Brock Boland
+---
+
+<div id="home">
+  {% for post in site.posts limit:10 %}
+    <article class="post">
+      <header>
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <time pubdate="pubdate" class="meta">{{ post.date | date_to_string }}</time>
+      </header>
+
+      {{ post.content }}
+    </article>
+  {% endfor %}
+</div>

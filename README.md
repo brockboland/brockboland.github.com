@@ -1,4 +1,0 @@
-jekylltest
-==========
-
-Testing with Jekyll

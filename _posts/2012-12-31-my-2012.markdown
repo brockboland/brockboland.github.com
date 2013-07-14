@@ -1,0 +1,15 @@
+---
+layout: post
+title: "My 2012"
+date: 2012-12-31 11:20
+comments: true
+categories: 
+permalink: /2012/12/my-2012
+---
+Here I've been thinking that 2012 had been a pretty underwhelming year, but then I stopped to actually think about it.
+
+I got to see all of my favorite bands live at some point during the year. Erin and I spent five days in Amsterdam, on a whim. I spent a week in Denver at Drupalcon. I joined Lullabot. I spent a week hanging out with my new coworkers at a retreat center in the woods. I got to speak on a panel at Drupalcon Munich, then spend a week exploring Munich and Berlin with Erin. I attended Drupal camps in Baltimore, DC, and Philadelphia. I spent a week with my family in Buffalo, then Erin and I drove an RV to Cleveland to do Thanksgiving with her family.
+
+And right after the near year, we're moving halfway across the country to Denver, where Erin will spend six months learning how to code for Ruby on Rails.
+
+So, yeah, I guess that was a pretty good year after all.

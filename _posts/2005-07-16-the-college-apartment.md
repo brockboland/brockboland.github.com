@@ -1,0 +1,30 @@
+---
+layout: post
+title: "The College Apartment"
+date: 2005-07-16 19:04
+comments: true
+sharing: true
+footer: true
+permalink: /2005/07/college-apartment
+categories: [College]
+tags: [apartment, College, Life]
+---
+The College Apartment is (hopefully) the worst apartment one will reside in during one's adult years.  I'd like to think that the next place I live in will be nicer, cleaner, home-ier, and will have fewer holes in the walls.  For those of you that haven't been to college yet (or lived at home while you were there), allow me to indoctrinate you.
+
+First of all, there are no clean dishes.  It's just not an option.  The only function of the kitchen sink is to act as a repository for dirty dishes: since that's all you'll have, you're going to need a place to put them.  When you run out of clean dishes, use paper plates.  When you run out of those, use paper towels.  When you run out of those, find the cleanest spot on the kitchen counter and call it a plate.
+
+If you do run out of paper towel, you're in trouble.  Paper towel serves in far more roles in a college apartment than anywhere else.  For one, it's the lone cleaning tool.  It can be used on dishes (not that it will be), floors, and, more commonly, spilled beer.  Furthermore, toilet paper is like that spare bottle opener in the third drawer in the kitchen - it's always there when you're looking for something else, but never when you need it.  Make sure there's always paper towel in the bathroom, because you don't want to get caught with your pants down (if you will).
+
+Some people are wine connoisseurs.  College students can identify different flavors of Ramen noodles based on smell alone, while average citizens find no distinguishing features in taste, smell, or appearance.  Macaroni and cheese can be consumed if you're willing to spend 50 cents on a meal - DOUBLE the cost of Ramen.  Of course, these things are only eaten in the second half of each week, when the pizza money from pay day has been exhausted.  Lucky for you, the half of the fridge that isn't occupied by Brita filters is full of condiments, so you can make mayo-ketchup-barbecue sauce sandwiches any time you want.  Be careful, though: some of those jars have been around longer than any of your roommates [it's worth mentioning at this point that the fridge will be full of condiments and water because you will have a second fridge for beer alone].  If you're lucky, you might find Jello shots hiding among the condiments.
+
+Through the combined efforts of two to four roommates, your apartment will amass more electronics than you could have imagined.  The entertainment system in the living room will be the best you will ever have in your place of residence.  At the moment, our apartment has a receiver, four speakers, two TV's, two TiVo's, an XBox, a Dreamcast, Super Nintendo, an original Nintendo, a DVD player, and a wireless access point.  In addition, each of us has a laptop, at least one PC, and a sound system to go with it.  We have one telephone, but none of us know the number for the place because we all have cell phones.
+
+Beer will provide the majority of your liquid intake.  Since college beer (Miller High Life, Natty Ice, PBR, etc) is cheaper than water, this is economically reasonable.  Late in your college career, you will discover the joy of higher quality beers, and you will be able to afford it because you already have every electronic device you can conceive of and you've learned to love pasta.
+
+Trash will become an issue.  Despite the fact that you can't afford much food or anything else that results in packaging waste, you and your roommates will produce more garbage than Rhode Island.  This trash won't be taken out to the dumpster, because you all have more important, college-related things to be doing, like playing video games or looking for a roll of paper towel because the toilet paper is gone.
+
+In the real world, people knock and politely wait for the door to be answered.  Not so in college apartments: your friends will give the two-tap warning before coming in, just in case someone's nekkid in the living room or something.  You learn to love this policy, especially on nights when you come home looking for something to do and the only people home are three people that you've only met once, and one of them is asleep on the couch.  On the rare occasion that someone actually knocks or rings the doorbell, you will shout “COME ON IN,” despite the fact that pizza delivery guys and FedEx folks will never come on in, so you'll have to get up and open the door.
+
+The décor is unlike that of any other home you will have.  Beer signs and movie posters will festoon the walls while empty liquor bottles are proudly displayed on some high shelf or window sill.  Christmas lights will no longer be relegated to the tree in December; the living room will be strung with them year-round.  The furniture that isn't built from stolen milk crates will generally be futons or old couches disguised with blankets.  Video game consoles and DVD cases will be strewn about the floor and milk crate furniture.  A bike will be parked in the corner, but chances are good that no one will know who it belongs to.  The only pet you will be permitted to keep is fish, and you will have a Beta due to their resilience.  It will live in an empty vodka bottle, in about three inches of water because you will forget to clean it, on four food pellets a week because you will forget to feed it.
+
+You might think that a dirty apartment with strangers asleep on the couch wouldn't be the kind of place you'd want to spend much time, but that's only because you haven't tried it.  Living with friends is critical.  I've been blessed with some really cool roommates over the years, so I've never really gotten too worked up about the state of the place.  Just remember that college is supposed to be fun, and you've got much more important things to be doing than worrying about the cleanliness of your apartment.  Like finding a way to eat cereal when there isn't a single clean dish in the house.

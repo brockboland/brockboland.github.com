@@ -173,6 +173,13 @@ ul.posts span {
 /* Customizations
 /*
 /*****************************************************************************/
+.site {
+  padding: 0 1em;
+}
+
+article {
+  padding-bottom: 2em;
+}
 article header h2 {
   font-size: 150%;
 }

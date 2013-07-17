@@ -15,7 +15,7 @@ But anyway: we're talking Display Suite, not Panels. Without getting into it too
 
 This week, I was working on the landing page for a client's site. The page shows a brief highlight of some of the latest blog posts: just the title, category, and post date, with a thumbnail image on the left. They wanted to show the category name followed by "Blog »", above the title of the post. I used the [Node Displays](http://drupal.org/project/nd) module to add a new build mode for blog posts on the landing page, and added the thumbnail image, blog category, title, and post date fields into the left and right regions. I did have to tweak the CSS just a little bit to make the left and right regions the correct width (and eliminate the middle region), but it was pretty simple. Here's an example of the final result:
 
-<img src='/files/screenshots/Heal_the_Bay-20100801-123808.jpg' alt="Screenshot" />
+<img src='/files/images/Heal_the_Bay-20100801-123808.jpg' alt="Screenshot" />
 
 ([Fish image source](http://www.flickr.com/photos/weesen/3255908138/))
 

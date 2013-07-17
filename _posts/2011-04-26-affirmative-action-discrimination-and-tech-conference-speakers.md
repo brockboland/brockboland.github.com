@@ -29,7 +29,7 @@ That's not at all the same thing. That's preferential treatment based on race, n
 
 <hr>
 
-<center><img src="/files/screenshots/mike_ftw-johnonolan-20110426-221743.png" alt="Mike and John" /></center>
+<center><img src="/files/images/mike_ftw-johnonolan-20110426-221743.png" alt="Mike and John" /></center>
 
 I got to thinking about all of this again because of a kerfuffle on Twitter this evening. <a href="http://twitter.com/#!/mike_ftw">Mike Monteiro</a> made a few comments <a href="http://twitter.com/#!/Mike_FTW/status/63015988739850240">about conferences with all-white, all-male speaker lists</a>, and <a href="http://twitter.com/#!/JohnONolan">John O'Nolan</a> made a <a href="http://twitter.com/#!/JohnONolan/status/63027246516011008">poorly conceived, poorly worded</a> reply, and then things went a little bananas as dozens of people jumped into the fray.
 

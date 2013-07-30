@@ -9,7 +9,7 @@ permalink: /2008/10/still-broken
 categories: [Life]
 tags: [carpal_tunnel, wrist]
 ---
-With regards to [my wrist](http://www.brockli.com/2008/10/my-busted-arm.php):
+With regards to [my wrist](/2008/10/my-busted-arm.php):
 
 I'm not sure I'm convinced it's carpal tunnel syndrome.  The pain has mostly been in my wrist, and everything I've read about carpal tunnel indicates that it causes discomfort, weakness, and numbness in your fingers and palm - none of which have been an issue for me.  
 

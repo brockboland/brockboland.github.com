@@ -9,7 +9,7 @@ permalink: /2006/11/recent-music-review-late-november
 categories: [Music]
 tags: [bands, Music]
 ---
-<p>It's been over two months since <a href="http://www.brockli.com/archives/2006/09/recent_music_review_early_sept.php">my last review</a>, so I've got a whole bunch for you today.  Let's split it up a bit, shall we?</p>
+<p>It's been over two months since <a href="/archives/2006/09/recent_music_review_early_sept.php">my last review</a>, so I've got a whole bunch for you today.  Let's split it up a bit, shall we?</p>
 
 <p><b>Warning:</b> some of the sites I've linked to will auto-play music from the band in question.  It's pretty obnoxious, but whatchagonnado?  Turn down your speakers before clicking, mmkay?</p>
 
@@ -26,7 +26,7 @@ I had never listened to Nickel Creek much, and they're going on indefinite hiatu
 
 <p><b><a href="http://www.scotchgreens.com/" target="_blank">Scotch Greens</a> - Professional</b> (Rockabilly Punk)
 <br />
-These guys opened for Flogging Molly when I saw them <a href="http://www.brockli.com/archives/2006/02/flogging_molly_take_three.php" target="_blank">back in February</a>, and I finally got the album.  Good gym music.   I don't have much to say about them, they're just fun to listen to.
+These guys opened for Flogging Molly when I saw them <a href="/archives/2006/02/flogging_molly_take_three.php" target="_blank">back in February</a>, and I finally got the album.  Good gym music.   I don't have much to say about them, they're just fun to listen to.
 </p>
 
 <p><b><a href="http://www.cockadoodledont.com/" target="_blank">Th' Legendary Shack Shakers</a> - Pandelirium</b> (Hillbilly Rock)

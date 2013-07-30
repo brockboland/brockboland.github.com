@@ -9,4 +9,4 @@ permalink: /2008/01/three-years-blog
 categories: [Blog]
 tags: [Blog]
 ---
-Check it out, I started this thing <a href="http://www.brockli.com/2005/01/feelgood_hit_ofjanuary.php">three years ago</a>.  Happy blogiversary to me!
+Check it out, I started this thing <a href="/2005/01/feelgood_hit_ofjanuary.php">three years ago</a>.  Happy blogiversary to me!

@@ -9,7 +9,7 @@ permalink: /2008/03/ocd-revisited
 categories: [Life]
 tags: [mental_illness, ocd]
 ---
-It's been a few weeks since my <a href="http://www.brockli.com/2008/02/ocd.php">first post about OCD</a>, and the response has been pretty big (for this blog).
+It's been a few weeks since my <a href="/2008/02/ocd.php">first post about OCD</a>, and the response has been pretty big (for this blog).
 
 First off, I think a couple people may have read it the wrong way.  I wasn't trying to pull some woe-is-me crap, and I'm certainly not any worse off for it.  If anything, I may consider taking meds for it just because it's irritating.
 

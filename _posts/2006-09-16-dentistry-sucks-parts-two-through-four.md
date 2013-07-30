@@ -9,7 +9,7 @@ permalink: /2006/09/dentistry-sucks-parts-two-through-four
 categories: [Life]
 tags: [dentist, root_canal]
 ---
-After my <a href="http://www.brockli.com/archives/2006/08/dentistry_sucks.php">checkup and cleaning</a>, I went back to take care of the cavities late last week.  I knew that the dentist and I would get along just fine as soon as I got there and he greeted me with, "I prefer my patients to be more numb rather than less, so we're going to give you lots of novocaine."  And then he did and it was wonderful.
+After my <a href="/archives/2006/08/dentistry_sucks.php">checkup and cleaning</a>, I went back to take care of the cavities late last week.  I knew that the dentist and I would get along just fine as soon as I got there and he greeted me with, "I prefer my patients to be more numb rather than less, so we're going to give you lots of novocaine."  And then he did and it was wonderful.
 
 As they'd feared, the one tooth that was in really bad shape needed a root canal.  Now, what they didn't tell me - it seemed like they assumed I knew - was that it's a three-part process.  They took care of the two minor cavities and (I guess?) drilled out the decay in the bad one, then sent me on my way.
 

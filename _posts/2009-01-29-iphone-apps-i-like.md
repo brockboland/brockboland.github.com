@@ -11,7 +11,7 @@ tags: [iphone]
 ---
 ## [Things](http://www.culturedcode.com/things/)
 [<img src="/files/images/things.png" align='right' alt="Things icon" width=100 border=0/>](http://www.culturedcode.com/things/)
-I [talked about Things](http://www.brockli.com/2008/09/omnifocus-vs-things.php) plenty when I compared it to OmniFocus a couple months ago.  I'm still using it several times a day and love it.  It has been updated a couple times since then, and now supports tags in the mobile version.  No support for Areas yet, but it still serves my needs pretty well.
+I [talked about Things](/2008/09/omnifocus-vs-things.php) plenty when I compared it to OmniFocus a couple months ago.  I'm still using it several times a day and love it.  It has been updated a couple times since then, and now supports tags in the mobile version.  No support for Areas yet, but it still serves my needs pretty well.
 
 ##[Byline](http://www.phantomfish.com/byline.html)
 [<img src="/files/images/byline.png" align='right' alt="Byline icon" width=100 border=0/>](http://www.phantomfish.com/byline.html)

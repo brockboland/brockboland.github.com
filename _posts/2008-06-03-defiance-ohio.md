@@ -9,7 +9,7 @@ permalink: /2008/06/defiance-ohio
 categories: [Music]
 tags: [defiance_ohio, Music]
 ---
-A couple days ago, Fonny ([this Fonny](http://www.brockli.com/2008/05/microblogging.php)) told me about [Defiance, Ohio](http://defianceohio.terrorware.com/), a great acoustic folk punk band.  I mean, they've got a fiddle, a double bass, and a cello, and they release all their music for free on BitTorrent - how could I possibly NOT love these guys?
+A couple days ago, Fonny ([this Fonny](/2008/05/microblogging.php)) told me about [Defiance, Ohio](http://defianceohio.terrorware.com/), a great acoustic folk punk band.  I mean, they've got a fiddle, a double bass, and a cello, and they release all their music for free on BitTorrent - how could I possibly NOT love these guys?
 
 My favorite song is The New World Order, and I know that no one likes song lyrics in blog posts, but tough nuggins.  These were copied straight from their site, without any high-falutin' formatting:
 

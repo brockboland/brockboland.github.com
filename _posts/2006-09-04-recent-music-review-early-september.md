@@ -9,7 +9,7 @@ permalink: /2006/09/recent-music-review-early-september
 categories: [Music]
 tags: [Music]
 ---
-<p>I said <a href="http://www.brockli.com/archives/2006/07/new_music.php">every week or two</a>, but every month or two is probably more appropriate.</p>
+<p>I said <a href="/archives/2006/07/new_music.php">every week or two</a>, but every month or two is probably more appropriate.</p>
 
 <p><b>Ben Folds - Still Fighting It</b> (<a href="http://www.amazon.com/exec/obidos/redirect?link_code=as2&path=ASIN/B00005NZKK&tag=brocklicom-20&camp=1789&creative=9325">Rockin' the Suburbs</a><img src="http://www.assoc-amazon.com/e/ir?t=brocklicom-20&l=as2&o=1&a=B00005NZKK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />)
 <br />

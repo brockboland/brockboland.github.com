@@ -9,7 +9,7 @@ permalink: /2008/01/movable-type-quickpost
 categories: [Blog, Technology]
 tags: [blogging, movabletype, mt]
 ---
-<p>I still haven't finished putting the site back together after <a href="http://www.brockli.com/2008/01/upgrading_movable_type.php">upgrading Movable Type</a>, but I really like the new version.  The admin interface is a lot cleaner and easier to use, and everything feels...sturdier, I guess.</p>
+<p>I still haven't finished putting the site back together after <a href="/2008/01/upgrading_movable_type.php">upgrading Movable Type</a>, but I really like the new version.  The admin interface is a lot cleaner and easier to use, and everything feels...sturdier, I guess.</p>
 
 <p>I'm not sure if QuickPost was a feature in 3.2, but I didn't know about it if it was.  And really, calling it a "feature" is an overstatement.  It's just a bookmarklet that you drop in the bookmarks toolbar of your browser, and it allows you to quickly start a post about the web page you're looking at.  For those of you who ARE using Movable Type (and this post won't be of much interest to anyone else), there's a QuickPost link in the Write Entry page, down below the Save and Cancel buttons.</p>
 

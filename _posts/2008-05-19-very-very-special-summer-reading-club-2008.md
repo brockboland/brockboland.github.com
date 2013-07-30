@@ -9,7 +9,7 @@ permalink: /2008/05/very-very-special-summer-reading-club-2008
 categories: [Books]
 tags: [Books, reading, vvssrc]
 ---
-Remember the <a href="/2005/06/very-very-special-summer-reading-club">Very Very Special Summer Reading Club</a>?  It never really happened, not even <a href="http://www.brockli.com/2006/08/very-very-special-summer-reading-club-year-two.php">the second summer</a>, and I completely forgot about it last year.  I still think it's a fun idea - anyone interested in trying again this year?
+Remember the <a href="/2005/06/very-very-special-summer-reading-club">Very Very Special Summer Reading Club</a>?  It never really happened, not even <a href="/2006/08/very-very-special-summer-reading-club-year-two.php">the second summer</a>, and I completely forgot about it last year.  I still think it's a fun idea - anyone interested in trying again this year?
 
 Here's the idea: pick a couple books to read this summer, tell us what they are, and in August or September, tell us how they were.  It's pretty simple, and you can read whatever you want to.  Either post a comment here, or write your own post about it.
 

@@ -13,6 +13,6 @@ tags: [Books, bookshelf, moving, packing]
 
 I was cleaning up my apartment the other day, and finally got around to putting my <a href="http://www.flickr.com/photos/brockli/137036212/">new books</a> in the bookshelf.  Right now, my bookshelf is organized in a careful manner, where books belong exactly where ever they fit.  "I should put these in order," I said to myself (I say a lot of things, aloud, to myself when I'm home alone).
 
-It's a good thing I didn't bother.  This morning, as I was walking around my apartment, I said to myself (again, probably louder than I should have), "I should start boxing those up so I don't have to pack everything all at once like <a href="http://www.brockli.com/archives/2005/11/go_south_young_man.php">last time</a>" (oh, by the way, I'm moving again in a couple weeks).
+It's a good thing I didn't bother.  This morning, as I was walking around my apartment, I said to myself (again, probably louder than I should have), "I should start boxing those up so I don't have to pack everything all at once like <a href="/archives/2005/11/go_south_young_man.php">last time</a>" (oh, by the way, I'm moving again in a couple weeks).
 
 I always seem to find time to organize right before I throw everything in random boxes.

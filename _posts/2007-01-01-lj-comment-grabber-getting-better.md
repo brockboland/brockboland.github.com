@@ -9,4 +9,4 @@ permalink: /2007/01/lj-comment-grabber-getting-better
 categories: [Blog]
 tags: [Blog, comments, lj, mt]
 ---
-I don't know if anyone besides <a href="http://jymferrier.net/" target="_blank">Jym</a> has tried the <a href="http://www.brockli.com/projects/lj-comment-grabber/">LJ Comment Grabber</a>, but I fixed the comment parsing...sort of.  Read the project page for more details.  If you are using it, this is definitely an update you want to get.
+I don't know if anyone besides <a href="http://jymferrier.net/" target="_blank">Jym</a> has tried the <a href="/projects/lj-comment-grabber/">LJ Comment Grabber</a>, but I fixed the comment parsing...sort of.  Read the project page for more details.  If you are using it, this is definitely an update you want to get.

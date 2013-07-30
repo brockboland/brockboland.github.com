@@ -29,7 +29,7 @@ I have no idea when or how I got this MP3, but it came up on shuffle a few weeks
 
 <p><b><a href="http://www.teddybearsrock.com/">Teddybears</a> (feat. Iggy Pop) - Punkrocker</b>
 <br />
-These guys got two mentions <a href="http://www.brockli.com/archives/2006/11/recent_music_review_late_novem.php">last month</a>, but Punkrocker is definitely the best yet.  I've never been an Iggy Pop fan - in fact, I'm not even sure I've heard anything other than Lust for Life - so I can't really tell you how this compares to his previous work.  The best I can do to describe this track is mellow indie-synth, with a tired-sounding Iggy crooning on top.  The Godfather of Punk is getting old - he'll be sixty this year - and he may still be in good shape, but it shows in his voice.
+These guys got two mentions <a href="/archives/2006/11/recent_music_review_late_novem.php">last month</a>, but Punkrocker is definitely the best yet.  I've never been an Iggy Pop fan - in fact, I'm not even sure I've heard anything other than Lust for Life - so I can't really tell you how this compares to his previous work.  The best I can do to describe this track is mellow indie-synth, with a tired-sounding Iggy crooning on top.  The Godfather of Punk is getting old - he'll be sixty this year - and he may still be in good shape, but it shows in his voice.
 </p>
 
 <p><b><a href="http://www.thenewpornographers.com/">The New Pornographers</a> - Use It</b>

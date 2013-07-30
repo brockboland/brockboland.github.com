@@ -9,7 +9,7 @@ permalink: /2007/04/recent-music-most-2007-thus-far
 categories: [Music]
 tags: [albums, cds, Music]
 ---
-Holy crap I'm slacking.  It's been damn near four months since I've posted <a href="/archives/2007/01/recent_music_review_decemberea.php">one of these</a>, so this is going to be an abridged version.
+Holy crap I'm slacking.  It's been damn near four months since I've posted <a href="/2007/01/recent-music-review-decemberearly-january">one of these</a>, so this is going to be an abridged version.
 
 <b>January</b>
 
@@ -21,7 +21,7 @@ The last weekend in January, I was wandering around DC and protesting the war wi
 
 <b>February</b>
 
-I spent the first week of February in the SF Bay area, and while I was there, I picked up <a href="http://www.kaiserchiefs.co.uk">Kaiser Chiefs'</a> <a href="http://www.amazon.com/gp/product/B0007TKH1Q?ie=UTF8&tag=brocklicom-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B0007TKH1Q">Employment</a> (again, the actual CD!) and listened to it a whole bunch - mostly because I had heard Ruby on <a href="http://www.xmradio.com/onxm/channelpage.xmc?ch=47">Ethel</a> (on the flight there, no less!) and it was stuck in my head all week.  I managed to find that MP3 and listened to it dozens of times while I was there.  A couple weeks later, I got <a href="http://www.amazon.com/gp/product/B000NA276W?ie=UTF8&tag=brocklicom-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000NA276W">Yours Truly Angry Mob</a> when it came out, and earlier this month, I got to <a href="/archives/2007/04/kaiser_chiefs_with_the_walkmen.php">see them live</a>.  They've been in rotation since early February.
+I spent the first week of February in the SF Bay area, and while I was there, I picked up <a href="http://www.kaiserchiefs.co.uk">Kaiser Chiefs'</a> <a href="http://www.amazon.com/gp/product/B0007TKH1Q?ie=UTF8&tag=brocklicom-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B0007TKH1Q">Employment</a> (again, the actual CD!) and listened to it a whole bunch - mostly because I had heard Ruby on <a href="http://www.xmradio.com/onxm/channelpage.xmc?ch=47">Ethel</a> (on the flight there, no less!) and it was stuck in my head all week.  I managed to find that MP3 and listened to it dozens of times while I was there.  A couple weeks later, I got <a href="http://www.amazon.com/gp/product/B000NA276W?ie=UTF8&tag=brocklicom-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000NA276W">Yours Truly Angry Mob</a> when it came out, and earlier this month, I got to <a href="/2007/04/kaiser-chiefs-walkmen-and-annuals">see them live</a>.  They've been in rotation since early February.
 
 Around the same time, I heard about <a href="http://www.rautakoura.net/">Rautakoura</a>, the Finnish bluegrass band, thanks to <a href="http://www.boingboing.net/2006/06/17/great_finnish_bluegr.html">Boing Boing</a>.
 

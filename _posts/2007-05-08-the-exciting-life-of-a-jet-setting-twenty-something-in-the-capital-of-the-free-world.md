@@ -15,7 +15,7 @@ I don't really know any specifics yet - right now, I'm more concerned with getti
 
 Friends in SF, please get in touch so I have your cell number (e-mail and AIM on the <a href="/about.php">About</a> page).  I'll be working normal hours during the week at a client's office, but I'd like to get together with everyone during the two weekends I'll be there for.
 
-I'm pretty psyched.  It won't be as relaxing as <a href="/archives/2007/02/layabout.php">my last trip there</a>, and I certainly don't have as much time to make plans with people, but it will be a nice change of pace nonetheless.
+I'm pretty psyched.  It won't be as relaxing as <a href="/2007/02/layabout">my last trip there</a>, and I certainly don't have as much time to make plans with people, but it will be a nice change of pace nonetheless.
 
 I really need to start packing.  SF folks, make sure I've got your number, and I'll see you soon.
 

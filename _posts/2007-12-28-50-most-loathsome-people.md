@@ -9,7 +9,7 @@ permalink: /2007/12/50-most-loathsome-people
 categories: [Other]
 tags: [Politics, Religion]
 ---
-<p>You may remember that I've <a href="/archives/2007/12/what_is_so_great_about_christi.php">been reading What's So Great About Christianity</a> with the intent of writing a rebuttal.  Well, I finished it last week, and I'll post it as soon as I find some time to write a post about it.</p>
+<p>You may remember that I've <a href="/2007/12/what-so-great-about-christianity">been reading What's So Great About Christianity</a> with the intent of writing a rebuttal.  Well, I finished it last week, and I'll post it as soon as I find some time to write a post about it.</p>
 
 <p>In the meantime, I'd like to direct you to <a href="http://www.buffalobeast.com/122/50mostloathsome2007.html" target="_blank">The BEAST 50 Most Loathsome People in America, 2007</a>.  I don't agree with all of them, but they have the same opinion of Dinesh that I do:</p>
 

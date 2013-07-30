@@ -15,4 +15,4 @@ I keep hoping that things will calm down soon and I'll have more free time.  I'm
 
 And, of course, there's about 20 books on my book shelf that were purchased in more leisurely times, when their chances of being read were as high as 1 in 6.  This one especially bugs me because of the money I've invested in my collection and the effort that's gone into moving all of them from apartment to apartment.  That shit's heavy, yo.
 
-My <a href="/archives/2007/03/oof.php">bowling ball/baby/shark</a> situation has surpassed, "Just get through this quarter," and I'm not really sure what comes after that.  Semi-year?  Either way, I just keep chugging along, and hope the train stops before the wheels come off.
+My <a href="/2007/03/oof">bowling ball/baby/shark</a> situation has surpassed, "Just get through this quarter," and I'm not really sure what comes after that.  Semi-year?  Either way, I just keep chugging along, and hope the train stops before the wheels come off.

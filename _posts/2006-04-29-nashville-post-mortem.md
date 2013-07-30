@@ -11,7 +11,7 @@ tags: [nashville, travel, Work]
 ---
 <div class="imgRight"><a href="http://www.flickr.com/photos/brockli/137030652/" title="Delta Atrium"><img src="/files/images/137030652_a6991f8c9c_m.jpg" width="240" height="180" alt="Delta Atrium" /></a></div>
 
-Now that I've been home for a day and a half, I've had some time to regroup and <a href="/archives/2006/04/nashville_aftermath.php">catch up on sleep</a> (I crashed for a few more hours this evening), but I still need a couple more days to recover.
+Now that I've been home for a day and a half, I've had some time to regroup and <a href="/2006/04/nashville-aftermath">catch up on sleep</a> (I crashed for a few more hours this evening), but I still need a couple more days to recover.
 
 When all was said and done, Nashville was great.  I didn't learn as much as I was expecting to (didn't have to do much router configuration), but I got to know the guys I work with a lot better, had a lot of fun, and felt like I had accomplished something at the end of the week.  It was an exhausting trip, but it's nice to come home at night too tired to do anything but sleep, knowing that it's because you put in a good solid 14 hours of work.  After a week on conference schedule, though, real life seems pretty mundane.
 

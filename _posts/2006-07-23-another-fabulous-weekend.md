@@ -9,7 +9,7 @@ permalink: /2006/07/another-fabulous-weekend
 categories: [Friends]
 tags: [clerks2, fadó, Movies]
 ---
-This weekend was even better than <a href="/archives/2006/07/bettern_last_time.php">the last</a>, and I think I'm OK with that trend.
+This weekend was even better than <a href="/2006/07/bettern-last-time">the last</a>, and I think I'm OK with that trend.
 
 <a href="http://www.imdb.com/title/tt0424345/">Clerks 2</a> came out Friday, and we got a crew together to see it at Gallery Place.  <a href="http://www.fadoirishpub.com/washington/">Fadó</a> is just a couple blocks down from the theater, so after the movie, we sauntered on down there for a rowdy evening of drinking, hollering, singing along with the tunes they were playing, singing along with the tunes we were playing, and discussing the biological makeup of human genitalia (we met a biology teacher).
 

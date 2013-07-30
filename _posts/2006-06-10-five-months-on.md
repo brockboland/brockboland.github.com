@@ -9,11 +9,11 @@ permalink: /2006/06/five-months
 categories: [Life]
 tags: [dc, Friends, resolutions]
 ---
-<p>I was going to do this at the end of June, but I suppose now is as good a time as any to revisit <a href="/archives/2005/12/2005_i_hardly_knew_ye.php">New Year's resolutions</a>.  Let's review, shall we?</p>
+<p>I was going to do this at the end of June, but I suppose now is as good a time as any to revisit <a href="/2005/12/2005-i-hardly-knew-ye">New Year's resolutions</a>.  Let's review, shall we?</p>
 
 <ul>
 <li><b>Spend more time in DC.</b></li>
-<p>So far - a bit of a flop.  I haven't been in the District in weeks, and really, I've only been up there to hang out a few times now - our <a href="/archives/2006/04/cherry_blossom_festival_2006.php">Cherry Blossom Fest picnic</a> and <a href="/archives/2006/03/who_says_smoking_is_bad_for_yo.php">St. Patrick's Day</a> are the only memorable days up there.  Perhaps I'll be more inclined to head up now that I'm so close to the Metro, but I've never been the type to just head into the city looking for something to do, so that seems unlikely.  I'll have to work on that.</p>
+<p>So far - a bit of a flop.  I haven't been in the District in weeks, and really, I've only been up there to hang out a few times now - our <a href="/2006/04/cherry-blossom-festival-2006">Cherry Blossom Fest picnic</a> and <a href="/2006/03/who-says-smoking-bad-you-or-st-paddys-day-miracle">St. Patrick's Day</a> are the only memorable days up there.  Perhaps I'll be more inclined to head up now that I'm so close to the Metro, but I've never been the type to just head into the city looking for something to do, so that seems unlikely.  I'll have to work on that.</p>
 
 <li><b>Watch more movies, read more books.</b></li>
 <p>So far, I've watched 60 movies this year, and read probably a dozen books, so I'd say this one is going well.  Even so, I'd like to be doing more of both; I've had five Netflix discs sitting around for about a month, and finally <a href="http://www.imdb.com/title/tt0111161/">watched one</a> last night and <a href="http://www.imdb.com/title/tt0375679/">another</a> this afternoon.  With people around all the time, I haven't really had a chance to watch them.  The same goes for books - I was reading more at the old place, but I haven't as much since moving.</p>

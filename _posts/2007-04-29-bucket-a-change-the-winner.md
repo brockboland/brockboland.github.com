@@ -11,7 +11,7 @@ tags: [cash, money]
 ---
 <div class="imgRight"><a href="http://www.flickr.com/photos/brockli/477777065/" title="Photo Sharing"><img src="/files/images/477777065_6dea4f6c47_m.jpg" width="240" height="180" alt="Bucket 'a Change = $101.43" align='right' /></a></div>
 
-So, how much was in <a href="/archives/2007/04/bucket_a_change.php">the bucket</a>?
+So, how much was in <a href="/2007/04/bucket-change">the bucket</a>?
 
 Honestly, friends, I'm a little disappointed in some of you.  Most of you guys were WAY off, and granted, you only had a picture to guess from and couldn't actually lift the bucket, but I gave you measurements and everything!  I think Pete's was the most reasoned response, with the coins per square inch calculations, but he was still 25% off.
 

@@ -15,4 +15,4 @@ Yesterday we saw <a href="http://www.imdb.com/title/tt0463034/">You, Me, and Dup
 
 Today, after four loads of laundry, almost everything is clean and I feel accomplished.  Done a little reading, done a little writing, watched <a href="http://www.imdb.com/title/tt0349683/">King Arthur</a> (not bad), and relaxed a bit.
 
-Definitely better than <a href="/archives/2006/07/weekend_results_may_vary.php">last weekend</a>, and now I know where all the drunk girls in this city hang out (hint: Japanese karaoke).
+Definitely better than <a href="/2006/07/weekend-results-may-vary">last weekend</a>, and now I know where all the drunk girls in this city hang out (hint: Japanese karaoke).

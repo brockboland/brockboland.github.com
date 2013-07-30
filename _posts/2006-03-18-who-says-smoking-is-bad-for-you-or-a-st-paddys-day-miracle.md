@@ -15,7 +15,7 @@ This evening, I took a cab home from the Metro stop after <a href="http://www.fl
 
 As I was sitting there, I noticed that the mulch around the tree right by my front door was wet.  "Some bastard peed on my tree!" I thought.  And it's probably best that I noticed: a moment later, I saw some smoke rising from the mulch that hadn't been pissed on.  It looked like someone had tossed their cigarette in there before I got home, so I stepped on it to put it out, but it kept smoking.  Even after pouring the rest of my water on it, it was sizzling and smoldering, so I went inside to get more water to make sure it was out.
 
-So there.  If I hadn't been smoking, my tree may well have caught fire.  Now, I DID <a href="/archives/2006/03/fire_trucks.php">get renter's insurance</a> not too long ago, but I still don't want to deal with that.  My filthy habit may have saved the day.
+So there.  If I hadn't been smoking, my tree may well have caught fire.  Now, I DID <a href="/2006/03/fire-trucks">get renter's insurance</a> not too long ago, but I still don't want to deal with that.  My filthy habit may have saved the day.
 
 At any rate, it was a weird St. Paddy's Day.  I did dinner at the <a href="http://capcitybrew.com/">Cap City Brewery</a>, then most of us headed into DuPont to hit <a href="http://www.washingtonpost.com/ac2/wp-dyn?node=cityguide/profile&id=792591">Lucky Bar</a> and catch up with my buddy Jeff.  Despite the pub decor, it was mostly yuppies and hipsters dancing to hip-hop.  I would have preferred a nice pub with actual Irish music, but we had a good time nonetheless.
 

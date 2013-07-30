@@ -9,7 +9,7 @@ permalink: /2006/05/wiki-stick-aftermath
 categories: [Technology]
 tags: [dokuwiki, mediawiki, wiki]
 ---
-I don't know why I didn't think to do more looking around before, but I've solved my <a href="/archives/2006/05/shared_mysql.php">wiki on a stick problem</a>.  Wikipedia has a <a href="http://en.wikipedia.org/wiki/Comparison_of_wiki_software">comparison of wiki software</a>, which includes a several that use flat-file databases.
+I don't know why I didn't think to do more looking around before, but I've solved my <a href="/2006/05/shared-mysql">wiki on a stick problem</a>.  Wikipedia has a <a href="http://en.wikipedia.org/wiki/Comparison_of_wiki_software">comparison of wiki software</a>, which includes a several that use flat-file databases.
 
 As it turns out, <a href="http://wiki.splitbrain.org/wiki:dokuwiki">DokuWiki</a> works almost just like <a href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</a>, in terms of formatting and revision history.  In one of the config files, you specify the data directory, and it just works.
 

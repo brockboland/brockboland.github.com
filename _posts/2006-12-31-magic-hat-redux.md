@@ -9,7 +9,7 @@ permalink: /2006/12/magic-hat-redux
 categories: [Alcohol]
 tags: [beer, hefeweizen]
 ---
-For those of you unhappy with my <a href="/archives/2006/12/magic_hat.php">opinion of Circus Boy</a>, rest assured: I tried Widmer's Hefeweizen last night.
+For those of you unhappy with my <a href="/2006/12/magic-hat">opinion of Circus Boy</a>, rest assured: I tried Widmer's Hefeweizen last night.
 
 And I was underwhelmed.
 

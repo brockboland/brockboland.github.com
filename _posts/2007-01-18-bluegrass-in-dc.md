@@ -15,4 +15,4 @@ That place is pretty great.  Bob Perilla & the Big Hillbilly Bluegrass Band was 
 
 On the walk back to the Metro, I was telling Schmitty how friendly people around here could be, and in the course of the conversation, asked four different groups of smokers if I could bum a cigarette.  How many smokes do you think I got?  If you guessed four, you're off by about four.  In Rochester, I would have had a dozen cigs in no time, but down here, where people tend to have a bit more money, they're stingy with their cancer sticks.  Maybe folks aren't so friendly after all.
 
-(Blessing in disguise, of course.  I've had less than ten <a href="/archives/2007/01/addiction_is.php">since I quit</a> two months ago, so why spoil it?)
+(Blessing in disguise, of course.  I've had less than ten <a href="/2007/01/addiction">since I quit</a> two months ago, so why spoil it?)

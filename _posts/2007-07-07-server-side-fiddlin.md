@@ -9,4 +9,4 @@ permalink: /2007/07/server-side-fiddlin
 categories: [Technology]
 tags: [brockli, site]
 ---
-I did some shuffling around on the server this afternoon, so please <a href="mailto:brock@brockli.com">let me know</a> if you find anything that's broke.  Thanks!
+I did some shuffling around on the server this afternoon, so please <a href="mailto:brock@brockboland.com">let me know</a> if you find anything that's broke.  Thanks!

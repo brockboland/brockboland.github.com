@@ -15,4 +15,4 @@ The messenger bag I've been using for the past 4+ years has almost completely fa
 
 I've been poking through their galleries, looking for bags that might work for me.  It needs to be big enough for my MacBook, a couple books, and some other stuff, but I don't want it to be TOO big; I need the Goldilocks bag.
 
-I'm a picky bitch.  If you've got a bag you love, <a href="mailto:brock@brockli.com">let me know</a> so I can check it out.
+I'm a picky bitch.  If you've got a bag you love, <a href="mailto:brock@brockboland.com">let me know</a> so I can check it out.

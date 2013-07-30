@@ -64,4 +64,4 @@ void(w.open(url));
 <li>That's it.  Test it out by going to any web page, select some text, and click the QuickPost bookmark.  You should get a new post that contains the text you had selected.</li>
 </ol>
 
-<p><a href="mailto:brock@brockli.com">Drop me a note</a> if you've got any questions or suggestions for improvements, or just post a comment here.</p>
+<p><a href="mailto:brock@brockboland.com">Drop me a note</a> if you've got any questions or suggestions for improvements, or just post a comment here.</p>

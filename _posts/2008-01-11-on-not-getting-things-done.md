@@ -15,4 +15,4 @@ A couple weeks ago, I started playing with <a href="http://www.omnigroup.com/app
 
 The problem is getting stuff out.  I still haven't gotten into the habit of checking OmniFocus when I've got free time to see what I should be doing.  I feel like everything in OmniFocus is still in my head - I have some free time and think, "I don't feel like doing any of that stuff," because I know what stuff is in there.  I need to get in the habit of checking it on a regular basis, so I can just put all my to-do's into it and forget about them.
 
-If anyone has any advice or suggestions on forming that habit, <a href="mailto:brock@brockli.com">let me know</a>.
+If anyone has any advice or suggestions on forming that habit, <a href="mailto:brock@brockboland.com">let me know</a>.

@@ -13,4 +13,4 @@ I'm in the process of upgrading <a href="http://www.movabletype.org/" target="_b
 
 That, and in MT4, entry URLs use dashes for spaces instead of underscores.  I have links to my own posts in the format "whats_so_great_about_christianity.php", but if you actually go to that post, the URL is "whats-so-great-about-christianity.php".  I'm assuming that's a setting I just haven't found yet, but until I do, links within new posts to old posts will be broken.
 
-If you find any gaping holes, please <a href="mailto:brock@brockli.com">drop me a note</a>.
+If you find any gaping holes, please <a href="mailto:brock@brockboland.com">drop me a note</a>.

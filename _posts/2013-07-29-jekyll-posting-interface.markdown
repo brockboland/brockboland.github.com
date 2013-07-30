@@ -15,3 +15,5 @@ The code for the form is pretty simple and pretty ugly, and it to [is on in the 
 The actual form doesn't look half bad, because like any true developer, I threw [Bootstrap](http://getbootstrap.com/) at the problem to make it look at least a little bit OK.
 
 If you want to try it yourself, grab `new.html` from that repo, and change the `action` attribute on the `form` element to point at your own repo address. You may also want to tweak the YAML front-matter that gets added at the end of the Javascript.
+
+**Update:** The new file form in Github is a bit weird. If you don't change either the filename or the file content, it will throw an error when you submit: "A file with the same name already exists. Please choose a different name and try again." I've submitted a bug report to Github, but in the meantime, you just need to make a change, like add and then remove a newline at the end of the post.

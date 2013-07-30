@@ -13,4 +13,4 @@ tags: [book, Religion]
 
 Around Christmas, I finished writing up my notes and rebuttals, but never really got around to polishing it up and citing better references and what have you.  After four months, I've decided that I probably never will, so I'm just posting what I wrote then:
 
-<form mt:asset-id="20" class="mt-enclosure mt-enclosure-file" style="display: inline;"><a href="/docs/WhatISSoGreatAboutChristianity.pdf">What IS So Great About Christianity?</a> (PDF)</form>
+<a href="/files/docs/WhatISSoGreatAboutChristianity.pdf">What IS So Great About Christianity?</a> (PDF)

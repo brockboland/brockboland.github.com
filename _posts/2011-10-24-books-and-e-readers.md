@@ -13,7 +13,7 @@ Let's talk books for a bit. A few things:
 
 * I used to read a ton of books when I was a kid. This fell off during college and picked up a bit afterward, but I miss reading as much as I used to, and I'm making an effort to break the habit of opening Twitter or Facebook when I could spend quality time with a book instead.
 * I donated most of my books a couple years ago when I got tired of moving them from apartment to apartment, so my bookshelf is pretty scarce right now. I miss those books sometimes.
-* I've had a Kindle 2 [since early last year](http://www.brockboland.com/2010/02/two-weeks-kindle), though my usage fell off after a year or so. I still really like it, but have become frustrated by some things, which I'll get to in a bit.
+* I've had a Kindle 2 [since early last year](/2010/02/two-weeks-kindle), though my usage fell off after a year or so. I still really like it, but have become frustrated by some things, which I'll get to in a bit.
 * I like marking up books. For the most part, I underline short passages or put brackets next to longer paragraphs that resonate with me. Sometimes, I'll jot a short note in the margin, but not often.
 
 The Kindle seemed like the perfect device: high-res screen, lots of books in one place, and you can highlight and make notes. But, it hasn't really worked out that way.

@@ -9,7 +9,7 @@ permalink: /2010/04/working-home
 categories: [Work]
 tags: [Work]
 ---
-I've been [working from home](http://www.brockboland.com/2010/03/professional-transitions.php) for four weeks now, and you know what? It's pretty much just as awesome as expected. Some random thoughts on the arrangement:
+I've been [working from home](/2010/03/professional-transitions) for four weeks now, and you know what? It's pretty much just as awesome as expected. Some random thoughts on the arrangement:
 
 * Lola is finally getting used to having me around all day. For the first couple weeks, she would come pester me every hour or two, but she's been pretty good this past week.
 * One of the best things about working alone is that I have complete control over the environment. I can listen to podcasts if I want to without disturbing anyone. I get to choose how warm or cool it is in the office - to an extent. Our air conditioning seems to be dead, so it was in the mid-80's in the apartment most of this week, but still: **I** control the fans!

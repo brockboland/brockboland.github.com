@@ -9,7 +9,7 @@ permalink: /2012/07/iphone-and-food-stamps
 categories: []
 tags: []
 ---
-This is marginally related to [my last post](http://brockboland.com/2012/07/socialized-health-care), but only insomuch as I read something Facebook and then stewed and grumbled about it for a while.
+This is marginally related to [my last post](/2012/07/socialized-health-care), but only insomuch as I read something Facebook and then stewed and grumbled about it for a while.
 
 This one goes like this: someone sees a person in a store paying with food stamps and using an iPhone. The complaint, of course, is that no one on public assistance should be wasting what little money they have on something so frivolous as a costly smart phone.
 

@@ -9,7 +9,7 @@ permalink: /2012/11/followup-bastards
 categories: []
 tags: []
 ---
-So, I was [in a pretty bad mood yesterday](http://brockboland.com/2012/11/people-are-bastard-coated-bastards-bastard-filling). I'm still in a bad mood, but maybe slightly less so. On the whole, I'm happy with how many races went on Tuesday, but still frustrated with where we stand as a country.
+So, I was [in a pretty bad mood yesterday](/2012/11/people-are-bastard-coated-bastards-bastard-filling). I'm still in a bad mood, but maybe slightly less so. On the whole, I'm happy with how many races went on Tuesday, but still frustrated with where we stand as a country.
 
 To some extent, I think that the attitudes that so infuriate me in others are indicative of larger societal norms that have come to be in the age of reality TV: everyone is the star of their own little world, and on the whole, people seem to no longer even consider that other people are, in fact, *people*. Whether it's the attitude that the poor are just lazy and would rather take a handout than work, or pitching garbage out a car window because someone else will pick it up, or pushing ahead of people waiting at an airport, or parking in a handicap spot to run in for just a minute, or fighting against welfare and health care funding—people seem to forget that at the other end of any action like that is other people. I don't know if we've always been so self-absorbed, or if I'm just becoming more aware of the inconsideration that permeates our culture.
 

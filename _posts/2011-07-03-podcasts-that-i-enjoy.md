@@ -9,7 +9,7 @@ permalink: /2011/07/podcasts-i-enjoy
 categories: [Comedy, Other]
 tags: [Podcasts]
 ---
-It's been a looong time since I've posted about podcasts I listen to - [just over three years](http://www.brockboland.com/2008/04/podcasts-i). A couple of my old favorites are now defunct, and I lost interest in most of the rest of them. I've found plenty of new ones to follow, though:
+It's been a looong time since I've posted about podcasts I listen to - [just over three years](/2008/04/podcasts-i). A couple of my old favorites are now defunct, and I lost interest in most of the rest of them. I've found plenty of new ones to follow, though:
 
 ## From [Maximum Fun](http://maximumfun.org/):
 I was first exposed to Maximum Fun way back before it was Maximum Fun. [The Sound of Young America](http://maximumfun.org/shows/sound-young-america) was one of the few podcasts that seemed interesting back when I got my first iPod in 2004, and I remember listening to Jesse's nickname - "America's Radio Sweetheart" - and thinking, "What a smug jackass." I've since come to love that jackass, even though I don't listen to SOYA anymore.

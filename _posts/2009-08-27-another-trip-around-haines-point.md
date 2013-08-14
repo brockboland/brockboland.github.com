@@ -9,7 +9,7 @@ permalink: /2009/08/another-trip-around-haines-point
 categories: [Biking]
 tags: [Biking, myride]
 ---
-Did another two laps around Haines Point again tonight - the same ride as [Tuesday night](http://www.brockboland.com/2009/08/i-feel-goooood), except I didn't get lost in the middle and came straight home after, so it was shorter.
+Did another two laps around Haines Point again tonight - the same ride as [Tuesday night](/2009/08/i-feel-goooood), except I didn't get lost in the middle and came straight home after, so it was shorter.
 
 * **Total Distance:** 11.88 mi
 * **Average Speed:** 12 mph

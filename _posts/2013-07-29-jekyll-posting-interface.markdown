@@ -8,7 +8,7 @@ categories:
 ---
 I made myself a simple web interface to create new [Jekyll](http://jekyllrb.com/) posts. This is actually the first post that I've written in it, so let's hope this works right. It's rare for me to be away from my primary machine, but I thought it would be nice to have a web interface to create a new post from my phone…and I kind of just wanted to see if it would work.
 
-You can see the [new post form](http://brockboland.com/new.html) on my site, though you won't be able to submit the form—or at least, it won't do anything if you try to. I'm taking advantage of Github's new file interface, so one needs permissions on my [Github pages repo](https://github.com/brockboland/brockboland.github.com) to create a new post.
+You can see the [new post form](/new.html) on my site, though you won't be able to submit the form—or at least, it won't do anything if you try to. I'm taking advantage of Github's new file interface, so one needs permissions on my [Github pages repo](https://github.com/brockboland/brockboland.github.com) to create a new post.
 
 The code for the form is pretty simple and pretty ugly, and it to [is on in the Github pages repo](https://github.com/brockboland/brockboland.github.com/blob/master/new.html). It's just a title field, and a content textarea. A hidden filename field is set by Javascript on form submit. I'm not even using jQuery: the code is super-ugly, but it gets the job done, and that's all I wanted.
 

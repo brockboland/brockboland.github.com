@@ -9,7 +9,7 @@ permalink: /2009/12/blog-bankruptcy
 categories: [Blog]
 tags: []
 ---
-Not unlike [last time](http://www.brockboland.com/2008/09/reboot.php), I've been putting off posting because there are more important things I haven't had a chance to write about. So, I'm declaring blog bankruptcy yet again, with the understanding that I feel bad that I haven't written about:
+Not unlike [last time](/2008/09/reboot), I've been putting off posting because there are more important things I haven't had a chance to write about. So, I'm declaring blog bankruptcy yet again, with the understanding that I feel bad that I haven't written about:
 
 * Our awesome wedding
 * Our awesome honeymoon

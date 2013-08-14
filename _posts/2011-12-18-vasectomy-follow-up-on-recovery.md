@@ -9,7 +9,7 @@ permalink: /2011/12/vasectomy-follow-recovery
 categories: [Other]
 tags: [vasectomy medical]
 ---
-I realized the other day that I never wrote a follow-up to [the post about getting a vasectomy](http://www.brockboland.com/2011/04/vasecto-me-vasecto-you-vasecto-everybody-room). That one was written hours after the procedure, and I intended to follow-up on it soon after, but forgot to.
+I realized the other day that I never wrote a follow-up to [the post about getting a vasectomy](/2011/04/vasecto-me-vasecto-you-vasecto-everybody-room). That one was written hours after the procedure, and I intended to follow-up on it soon after, but forgot to.
 
 As with the last one, if you don't want to hear about this kind of thing, stop reading now.
 

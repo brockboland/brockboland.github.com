@@ -9,7 +9,7 @@ permalink: /2012/08/minor-milestone-my-obsessive-logging
 categories: []
 tags: []
 ---
-I thought I had talked about this more at some point, but I can find [only one mention of it](http://brockboland.com/2011/11/i-want-track-everything): since February 2008, I've kept a daily log. It's sort of like a journal, but way shorter. I really just include the bigger outline of my day, so I can look back and get a sense of what I was doing at some particular time. A typicaly entry looks like this:
+I thought I had talked about this more at some point, but I can find [only one mention of it](/2011/11/i-want-track-everything): since February 2008, I've kept a daily log. It's sort of like a journal, but way shorter. I really just include the bigger outline of my day, so I can look back and get a sense of what I was doing at some particular time. A typicaly entry looks like this:
 
 > 2012.07.04  Wed
 > Fourth of July

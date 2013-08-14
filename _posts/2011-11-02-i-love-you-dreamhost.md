@@ -25,4 +25,4 @@ Every time I start to think that maybe I should look into other web hosting comp
 
 How could I NOT give money to a company that sends newsletters like this?
 
-([Previously](http://www.brockboland.com/2011/04/dreamhost))
+([Previously](/2011/04/dreamhost))

@@ -4,6 +4,8 @@ subtitle: Drupal developer, heathen atheist, Denver resident. brock@brockboland.
 author: Brock Boland
 
 markdown: redcarpet
+redcarpet:
+  extensions: [footnotes]
 pygments: true
 
 root: /

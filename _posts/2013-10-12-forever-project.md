@@ -1,3 +1,11 @@
+---
+layout: post
+title: My Forever Project
+date: 2013-10-12 03:55 PM
+comments: true
+published: true
+categories: Projects
+---
 ### Introduction
 LifeTracker is my [forever project](http://jwb.io/20130122-the-joys-of-having-a-forever-project.html).
 

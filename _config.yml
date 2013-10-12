@@ -3,7 +3,7 @@ name: Brock Boland
 subtitle: Drupal developer, heathen atheist, Denver resident. brock@brockboland.com
 author: Brock Boland
 
-markdown: redcarpet2
+markdown: redcarpet
 redcarpet:
   extensions: [footnotes]
 pygments: true

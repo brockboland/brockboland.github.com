@@ -4,7 +4,7 @@ title: That's Some Fine Poping
 date: 2013-10-17 11:01
 comments: true
 published: true
-categories: 
+categories: [Religion]
 ---
 [I like this new pope a lot.](http://www.washingtonpost.com/national/on-faith/conservative-catholics-question-pope-franciss-approach/2013/10/12/21d7f484-2cf4-11e3-8ade-a1f23cda135e_story.html)
 

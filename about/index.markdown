@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+group: navigation
 ---
 <img src="/files/profile.jpg" alt="Profile" align="right" style="padding-left: 20px;" width=150>
 My name is Brock. Here's the stuff I like:

@@ -12,3 +12,9 @@ My name is Brock. Here's the stuff I like:
 * Drupal. I used to write about that on [DrupalDork](http://drupaldork.com), but now that's just an archive of the site.
 * iOS development. I'm still kinda new to this one, so you won't find much about it just yet.
 * That's it. I don't like other stuff.
+
+I do stuff elsewhere sometimes too:
+
+* [Twitter](http://twitter.com/brock)
+* [Github](http://github.com/brockboland)
+* <a href="https://plus.google.com/101596666868636644708" rel="me">Google+</a> (I don't use this much)

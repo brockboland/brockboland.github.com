@@ -43,7 +43,12 @@ I have a system for moving, because I've done that a lot. I spent seven years in
 
 ### Unpacking
 - **Put together your bed first.** I like to unpack as much as I can in the first day at the new place, but I always start with the bed. When I get to the point where I can't possibly unpack another box, the last thing I want to do is shuffle around a bunch of junk so I can lay down the mattress that's leaning against a wall. Our bedsheets are kept in under-bed totes that are easy to pick out among moving boxes, but you may want to stick those in your carry-on too, so that you don't have to go hunting for them come bedtime.
+- **Clean out the kitchen cupboards.** Scrub 'em before you unpack the kitchen, then maybe put down that contact paper, too.
 - **Get furniture in place.** I find it's easier to shuffle the boxes around as needed to get furniture where you want it, and go from there. It'll be easier than having a kitchen table buried under boxes, sitting where you want to put the couch. Or, opening boxes of books and having nowhere to put them because the bookshelves are buried behind boxes, and so is the spot on the wall where the shelves were intended to go. This step is a pain in the neck because it often means moving full boxes to and fro around the room, but it makes unpacking the boxes a lot easier.
 - **Unpack the boxes.** I don't really have a system from this point. I tend to start with the boxes that are tripping me up most often and go from there.
+
+### Once you're settled a bit
+- **Take a lap with a screwdriver.** Every apartment comes with loose towel racks and doorknobs. It's the kind of thing people just stop noticing and learn to live with. Tighten those up before you get accustomed to a bunch of wiggly crap.
+- **Take stock of the lightbulbs.** Let's be honest: CFLs are usually crummy, mismatched wattages look like crap, and one dead bulb in the bathroom or kitchen makes all the difference in the world. I like to just replace all of them to avoid the mismatches and take care of the dead ones.
 
 Piece of cake, right? Enjoy your new home!

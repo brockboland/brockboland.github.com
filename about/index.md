@@ -4,7 +4,7 @@ title: About
 tagline: Brock Boland
 group: navigation
 ---
-<img src="/files/profile.jpg" alt="Profile" align="right" style="padding-left: 20px;" width=150>
+<img src="/files/profile.jpg" alt="Profile" align="right" style="padding-left: 20px;">
 My name is Brock. Here's the stuff I like:
 
 * My wife. She's pretty rad.

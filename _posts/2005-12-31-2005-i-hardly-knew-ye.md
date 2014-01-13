@@ -21,7 +21,7 @@ Last new year's eve doesn't seem that far off, but this certainly wasn't a quick
 I <a href="/2005/02/smoke">quit smoking</a> (again).  It doesn't last long, because I remember smoking when <a href="http://www.ryandoherty.net/">RyanD and I <a href="/2005/02/heads-carolina-tails-california">road tripped to North Carolina</a> to see Dan and Casey.  I see the ocean for the first time, and hug a palm tree.
 
 <b>March</b>
-I started <a href="/2005/03/first_day_on_the_job.php">my second co-op</a> and met some cool people because of it.  I had my first <a href="/2005/03/we-should-be-shitfaced">St. Patrick's Day</a> as a legal drinker, and finally wrote down <a href="/2005/03/mortality">some requests</a> in the event of my untimely demise (don't forget those, people).
+I started <a href="/2005/03/first-day-job">my second co-op</a> and met some cool people because of it.  I had my first <a href="/2005/03/we-should-be-shitfaced">St. Patrick's Day</a> as a legal drinker, and finally wrote down <a href="/2005/03/mortality">some requests</a> in the event of my untimely demise (don't forget those, people).
 
 <b>April</b>
 I spent a few days agonizing over <a href="/2005/04/back-where-i-come">where to settle down</a> after college, even though none of the obvious choices came to fruition.  We threw a <a href="/2005/04/most-tiring-week-ever">kickass BBQ, and saw Flogging Molly</a>.  My <a href="/2005/04/i-love-flickr-more-muffins">love affair with Flickr</a> began, though it's fallen by the wayside lately.  BP and I buy a <a href="/2005/04/damn-i-love-college">big bottle of Jack Daniel's</a> and...

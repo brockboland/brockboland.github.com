@@ -9,7 +9,7 @@ permalink: /2008/09/information-underload
 categories: [Internet]
 tags: [information, overload]
 ---
-Just about three years ago, I wrote [Information Overload](/2005/10/information-overload.php).
+Just about three years ago, I wrote [Information Overload](/2005/10/information-overload).
 
 I'm trying to decide if I feel the complete opposite or exactly the same.  I don't bother trying to keep up on everything any more - I've learned to accept that I can't - though I do still consume a lot.  I find that I get restless and bored quickly if I don't have something to watch, something to read, or something to do.  Like Against Me! said in [Don't Lose Touch](http://www.againstme.net/am.php/disco/track_detail/track_13_dont_lose_touch):
 > Constant entertainment for our restless minds.

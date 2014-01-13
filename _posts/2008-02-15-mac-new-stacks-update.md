@@ -9,7 +9,7 @@ permalink: /2008/02/mac-new-stacks-update
 categories: [Technology]
 tags: [dock, mac, osx, stacks]
 ---
-Remember when I was <a href="/2008/02/new_stacks_in_os_x_1052.php">complaining yesterday</a> about the dock in 10.5.2?  Well don't I feel silly.
+Remember when I was <a href="/2008/02/mac-new-stacks-os-x-1052">complaining yesterday</a> about the dock in 10.5.2?  Well don't I feel silly.
 
 I guess I didn't really bother looking for an answer, because 30 seconds on Google got me <a href="http://forums.macrumors.com/showthread.php?referrerid=59552&t=433589">a forum thread</a> about this very subject.  To use the folder's icon in the dock, you just need to remove it and re-add it to the dock, or switch it from folder view to stack view and back again.  For some reason though, restarting the machine won't do it (I tried that first, just in case).
 

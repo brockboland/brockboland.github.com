@@ -9,9 +9,9 @@ permalink: /2008/10/still-broken
 categories: [Life]
 tags: [carpal_tunnel, wrist]
 ---
-With regards to [my wrist](/2008/10/my-busted-arm.php):
+With regards to [my wrist](/2008/10/my-busted-arm):
 
-I'm not sure I'm convinced it's carpal tunnel syndrome.  The pain has mostly been in my wrist, and everything I've read about carpal tunnel indicates that it causes discomfort, weakness, and numbness in your fingers and palm - none of which have been an issue for me.  
+I'm not sure I'm convinced it's carpal tunnel syndrome.  The pain has mostly been in my wrist, and everything I've read about carpal tunnel indicates that it causes discomfort, weakness, and numbness in your fingers and palm - none of which have been an issue for me.
 
 The meds and wrist brace seem to be helping, though, along with the stretches and Vitamin E supplements my mother-in-law-to-be recommended.  The problem is that my left wrist is starting to bother me now.  I used to type with my left hand resting near the edge of the keyboard, and my right hand would cover about two thirds of the keys - which probably caused my problems to begin with.  Now that I'm trying to type properly, my left hand actually has something to do, and it's been getting kind of tired and a little achey now too.  I think I may need to get a second wrist brace for the other side.
 

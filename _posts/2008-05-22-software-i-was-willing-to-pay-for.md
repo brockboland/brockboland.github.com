@@ -25,7 +25,7 @@ It seems like there should be at least one free FTP client for the Mac that does
 
 [TextMate](http://macromates.com/)
 --------
-This isn't a new purchase (I've had it for about a year), but [TextMate](http://macromates.com/) has become more and more useful to me lately.  I wrote a [post about it a couple days ago](/2008/05/the-editors-i-have-known-and-loved.php).  It was a little cheaper when I bought it, and $64 seems pretty steep for a text editor, but it meets needs I didn't even know I had.
+This isn't a new purchase (I've had it for about a year), but [TextMate](http://macromates.com/) has become more and more useful to me lately.  I wrote a [post about it a couple days ago](/2008/05/editors-i-have-known-and-loved).  It was a little cheaper when I bought it, and $64 seems pretty steep for a text editor, but it meets needs I didn't even know I had.
 
 [OmniFocus](http://www.omnigroup.com/applications/omnifocus/)
 ---------

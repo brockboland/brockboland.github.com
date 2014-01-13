@@ -9,7 +9,7 @@ permalink: /2008/01/movable-type-archives-location-change-upgrade
 categories: [Blog]
 tags: [apache, mod_rewrite, movabletype, mt, mt4]
 ---
-As I've <a href="/2008/01/upgrading_movable_type.php">mentioned here before</a>, I upgraded to Movable Type 4 not too long ago.  One of the changes that almost went unnoticed is the way archives are handled.  In MT3, I wasn't using the dynamic pages, so every post was generated into a file in the `archives` directory.  For example, a post about new music in July wound up at `/archives/2007/07/new_music.php`.
+As I've <a href="/2008/01/upgrading-movable-type">mentioned here before</a>, I upgraded to Movable Type 4 not too long ago.  One of the changes that almost went unnoticed is the way archives are handled.  In MT3, I wasn't using the dynamic pages, so every post was generated into a file in the `archives` directory.  For example, a post about new music in July wound up at `/archives/2007/07/new_music.php`.
 
 In MT4 - or at least, MT4 with dynamic pages - there is no `archives` directory.  Really, there aren't any directories, since it's all handled by `mod_rewrite`, but that's not really the point I'm making.  Under MT4, that post I mentioned above would be at `/2007/07/new_music.php`, with no `/archives` at the front.
 

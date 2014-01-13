@@ -11,7 +11,7 @@ tags: [iphone]
 ---
 ## [Things](http://www.culturedcode.com/things/)
 [<img src="/files/images/things.png" align='right' alt="Things icon" width=100 border=0/>](http://www.culturedcode.com/things/)
-I [talked about Things](/2008/09/omnifocus-vs-things.php) plenty when I compared it to OmniFocus a couple months ago.  I'm still using it several times a day and love it.  It has been updated a couple times since then, and now supports tags in the mobile version.  No support for Areas yet, but it still serves my needs pretty well.
+I [talked about Things](/2008/09/omnifocus-vs-things) plenty when I compared it to OmniFocus a couple months ago.  I'm still using it several times a day and love it.  It has been updated a couple times since then, and now supports tags in the mobile version.  No support for Areas yet, but it still serves my needs pretty well.
 
 ##[Byline](http://www.phantomfish.com/byline.html)
 [<img src="/files/images/byline.png" align='right' alt="Byline icon" width=100 border=0/>](http://www.phantomfish.com/byline.html)
@@ -19,7 +19,7 @@ I [talked about Things](/2008/09/omnifocus-vs-things.php) plenty when I compared
 
 ##[Instapaper](http://www.instapaper.com/iphone)
 [<img src="/files/images/instapaper.png" align='right' alt="Instapaper icon" width=100 border=0/>](http://www.instapaper.com/iphone)
-I fiddled with Instapaper on my desktop and didn't really see the point, until I got the iPhone app.  Instapaper gives you a bookmarklet that will save the content of a web page to their service, and for most sites, figure out which part of the page contains the content so you can just view the actual text.  
+I fiddled with Instapaper on my desktop and didn't really see the point, until I got the iPhone app.  Instapaper gives you a bookmarklet that will save the content of a web page to their service, and for most sites, figure out which part of the page contains the content so you can just view the actual text.
 
 Sort of useful on a computer; **way** useful on a mobile device.  It will sync the articles you choose and save them on the iPhone for offline reading.  Again, great for Metro rides.  I typically use this in conjunction with Google Reader: when I come across a longer article or blog post that I want to read later, I save it to Instapaper and read it on the train.
 

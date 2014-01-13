@@ -9,7 +9,7 @@ permalink: /2008/04/new-man-purse
 categories: [Other]
 tags: [man_purse]
 ---
-It's been a long time since I <a href="/2008/01/man_purse_lust.php">started looking for a new man purse</a>, and I finally found a suitable replacement: the <a href="http://www.ogio.com/product.php?product=455">OGIO Hip Hop</a> messenger bag.  It's the perfect size, and unlike most bags I've looked at, it's got a water bottle pocket.  In fact, it's got TWO water bottle pockets, just in case.
+It's been a long time since I <a href="/2008/01/man-purse-lust">started looking for a new man purse</a>, and I finally found a suitable replacement: the <a href="http://www.ogio.com/product.php?product=455">OGIO Hip Hop</a> messenger bag.  It's the perfect size, and unlike most bags I've looked at, it's got a water bottle pocket.  In fact, it's got TWO water bottle pockets, just in case.
 
 My only complaint is the strap.  It's got these little plastic square loops that connect the strap to the bag.  It should look like this:
 <a href="http://www.flickr.com/photos/brockli/2384169164/" title="How it was supposed to work by BrockLi, on Flickr"><img src="/files/images/2384169164_fd0f671c52_m.jpg" width="180" height="240" alt="How it was supposed to work" /></a>

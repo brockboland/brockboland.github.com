@@ -100,3 +100,10 @@ From [Reasons Not To Be An Idiot](http://frank-turner.com/tracks/reasons-not-to-
 > But you hide yourself away\\
 > You've only got yourself to blame\\
 > Get up and get down and get outside
+
+From [Peggy Sang the Blues](http://frank-turner.com/tracks/peggy-sang-the-blues/):
+
+> It doesn't matter where you come from\\
+> It matters where you go\\
+> No one gets remembered\\
+> For the things they didn't do

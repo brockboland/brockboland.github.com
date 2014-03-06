@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Brock Boland
-tagline: Drupal, iOS, Religion, Chicago
+tagline: iOS, Drupal, Chicago
 ---
 {% include JB/setup %}
 

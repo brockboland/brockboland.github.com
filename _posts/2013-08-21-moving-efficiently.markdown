@@ -4,7 +4,7 @@ title: Moving Efficiently
 date: 2013-08-21 6:01 PM
 comments: true
 published: true
-categories: 
+categories:
 ---
 People who travel a lot have their own system: things to prepare in the days before a trip, everything packed in it's right place, printout of the flight itinerary in a front pocket in case the luggage goes missing, and so on.
 
@@ -24,7 +24,7 @@ I have a system for moving, because I've done that a lot. I spent seven years in
 ### Packing
 - **Start with books.** Packing is one of those there's-so-much-to-do-I-don't-know-where-to-start kind of jobs. Start with your bookcase. You can make some quick progress and get the process moving. Besides, you want the heavy books at the bottom of the pile of packed boxes, so you may as well start there.
 - **Mark your boxes.** This should be a no-brainer, but I've definitely done moves where I didn't bother labeling anything, and had the movers just dump it all in the living room. This was a mistake.
-  - Mark boxes ***HEAVY*** if they're over 50 pounds (that's the limit that OSHA says could cause injury). You don't want some overzealous friend lifting a seemingly small box of your pet rock collection, only to throw out their back. At least they'll test it first or get somebody to help.  
+  - Mark boxes ***HEAVY*** if they're over 50 pounds (that's the limit that OSHA says could cause injury). You don't want some overzealous friend lifting a seemingly small box of your pet rock collection, only to throw out their back. At least they'll test it first or get somebody to help.
   - Mark boxes ***FRAGILE*** in bright marker and circle it 10^5 times. Unless you have professional movers, tell everybody to let you get those yourself. Your friends will thank you since they no longer have to worry about breaking your priceless collection of Star Wars figurines.
 - **Pack a carry-on full of clothes and toiletries.** Even if you're moving to another place in the same city, just fill the carry-on. It makes sense to pack clothes in luggage anyway, and who knows how long it will be before you get the rest of your clothes unpacked at the other end. This is especially important if your move will include any overnights (like driving between cities), since you'll need this bag wherever you spend the night. The front pocket of the carryon gets the shower curtain, rings, and bar of soap (remember those from earlier?), along with a towel. After unloading the truck at the new place, especially if it's summer, you're going to want to take a shower without having to tear into every box marked "bathroom" to make it happen.
 - **Leave a crappy old bath towel and a trash bag in the bathroom of the old place, and leave the shower curtain liner up.** Pack the decorative shower curtain, leave the plastic liner hanging. Whether you shower right when you get up on moving day, or after loading up the truck, the last thing out of the apartment can be a trash bag with a torn old bath towel, the old curtain, and the rings it hung from (those are cheap, just toss 'em).
@@ -32,11 +32,14 @@ I have a system for moving, because I've done that a lot. I spent seven years in
   - You might need to clean your old place before moving out. A little elbow grease could save quite a bit of money in cleaning fees depending on your current lease.
   - You will also want to clean your new place before unpacking everything. Vacuuming an empty room takes about 30 seconds. Wiping down walls and stuff is much easier without furniture in the way. Focus on rooms with the most furniture, like your bedroom, living room, or office. Skip the bathroom, hallways, and kitchen since you probably won't be any worse off in a month when you finally get around to it.
 - **Make sure you know where your checkbook is.** If you're like me, the checkbook only comes out once a month for that one bill that you still can't pay online. As such, my checkbook is just in a drawer somewhere, and would get packed in a box with all the other junk if I'm not careful. That's a good thing to have close at hand during the moving process, just in case.
+- **Don't think. Just put stuff in boxes.** This advice comes from Paul F. Tompkins, on the [Stop Podcasting Yourself podcast](http://www.maximumfun.org/stop-podcasting-yourself/stop-podcasting-yourself-bonus-episode-live-paul-f-tompkins), right at the 21-minute mark:
+
+> We followed the advice that someone gave us—because we hadn't moved in a while, and a friend of ours said, "here's the best advice I ever got about moving: Don't think. Just put stuff in boxes." Which, inevitably, happens anyway.
 
 ### Moving Day
 - **Get the last of your stuff packed up.** The first time I moved after college, one of the things I unpacked was a trash bag containing whiteboard markers, some dirty dishes, and a disgusting George Foreman grill, because I had somehow failed to pack (or clean) those items, and a friend that was helping me move just tossed them in a bag. Whether you're hiring movers or paying friends in pizza and beer, make sure all your stuff is packed and ready to go out the door before your help arrives.
 - **Trust the movers.** You did hire movers, right? As much as I love my friends and appreciate their help on previous moves, none of us do that kind of thing for a living. Pay someone who knows how to properly pack a truck, and who is insured in case anything gets dropped.
-- **Moving yourself?** 
+- **Moving yourself?**
   - Think about how long you think it should take. Now add 6 hours... Don't forget to plan for when you need to return the truck. You might need to quickly unload everything into your driveway/garage/sidewalk so you can get the truck back and not pay tons of money in late fees.
   - Moving trucks are generally much more expensive on weekends and the start/end of a month.
   - Forearm forklifts seem cheezy, but they work great. Even after you move, I've used them to move furniture around without dragging it.

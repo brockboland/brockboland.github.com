@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Matt Gemmell: First World Problems
+title: Matt Gemmell on First World Problems
 tagline:
 date: 2014-07-08 10:18
-comments: true
+comments: false
 published: true
 categories: []
 tags: []

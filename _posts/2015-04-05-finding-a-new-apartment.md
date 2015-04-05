@@ -31,6 +31,7 @@ Inevitably, though, each new apartment just comes with its own new problems. So,
 	- Poured concrete construction: you can't hear the people above you walking around when there's a few solid inches of concrete to protect you.
 	- Gas range: I don't cook much, but I know what I like, and what I like ain't electric burners.
   - No Comcast: it's not a deciding factor, but the ISP that serves a building is definitely a consideration.
+  - Dishwasher: obviously.
 - **Other things you might look for.** These are things that don't really matter to me, but might matter to you.
   - Flooring: if you gotta have that hardwood.
   - Closet space: or you could just get rid of stuff.

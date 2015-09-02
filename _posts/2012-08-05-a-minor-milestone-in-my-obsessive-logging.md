@@ -11,9 +11,9 @@ tags: []
 ---
 I thought I had talked about this more at some point, but I can find [only one mention of it](/2011/11/i-want-track-everything): since February 2008, I've kept a daily log. It's sort of like a journal, but way shorter. I really just include the bigger outline of my day, so I can look back and get a sense of what I was doing at some particular time. A typicaly entry looks like this:
 
-> 2012.07.04  Wed
-> Fourth of July
-> Didn't do much of anything: Erin was still sick, but feeling better by the end of the day
+> 2012.07.04  Wed<br>
+> Fourth of July<br>
+> Didn't do much of anything: Erin was still sick, but feeling better by the end of the day<br>
 > Worked on some Drupal Ladder stuff
 
 Now I've got a 6700-line text file with all of these minor details, but that was supposed to be a stop-gap measure until I found a better tool for the job. A few months ago, I bought [Day One](http://dayoneapp.com/) when everyone was talking about it, and tinkered with it a bit to see if it might be a good option. Data lock-in was my biggest concern—I don't want my log to be held hostage by some proprietary data format when the developer stops supporting the app. Day One stores entries in XML, with one file per entry, so it will be easy enough to reformat them for some other system in the future.

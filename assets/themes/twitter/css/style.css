@@ -1,6 +1,7 @@
 body {
   /* Lots of line space */
   line-height: 170%;
+  font-size: 120%;
 }
 /* Custom container */
 .container-narrow {

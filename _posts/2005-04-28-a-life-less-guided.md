@@ -17,7 +17,10 @@ They say the two things you shouldn't debate are politics and religion, so that'
 
 I won't be going home this weekend after all, because it turns out that it's already time for Spring Fest.  We're talking about doing another big BBQ on Saturday, but it looks like the forces of weather are conspiring against us, so that probably won't happen.  <a href="http://www.imdb.com/title/tt0371724/">The Hitchhiker's Guide to the Galaxy</a> comes out tomorrow, so I'm going to see it with Heewa.  I wanted to read the series again before seeing it, but it's a little late for that now.  I'm a little concerned that the trailers I've seen all tout it as some great space action flick.  The fact of the matter is, the books weren't great because of a thrilling sci-fi storyline; it was Adams' humor and incredible writing style that made them good.  I really don't think it's going to translate well to film, but I'll give it a chance.
 
-"If we're both bad influences, do we cancel each other out?"
-"Thereby making us good people?"
-"Yeah."
-"If we didn't hang out, we'd be BASTARDS."
+> "If we're both bad influences, do we cancel each other out?"
+>
+> "Thereby making us good people?"
+>
+> "Yeah."
+>
+> "If we didn't hang out, we'd be BASTARDS."

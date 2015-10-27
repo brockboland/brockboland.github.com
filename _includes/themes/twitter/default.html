@@ -20,6 +20,14 @@
 
     <link rel="author" href="https://plus.google.com/101596666868636644708/posts"/>
 
+    <!-- Facebook -->
+    <meta property="og:site_name" content="{{ site.title }}"/>
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="article:author" content="https://www.facebook.com/brockboland" />
+    {% if page.path contains '_posts' %}
+      <meta property="og:type" content="article" />
+    {% endif %}
+
     <!-- Le fav and touch icons -->
   <!-- Update these with your own images
     <link rel="shortcut icon" href="images/favicon.ico">

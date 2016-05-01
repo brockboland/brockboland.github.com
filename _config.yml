@@ -18,3 +18,5 @@ github_username:  brockboland
 
 # Build settings
 markdown: kramdown
+
+exclude: [".*", "post_template.md", "README.md"]

@@ -6,18 +6,17 @@ permalink: /archive.html
 
 <div>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  {% for post in site.posts %}
+    {% assign currentYear = post.date | date: "%Y" %}
+    {% if currentYear != previousYear %}
+      {% unless forloop.first %}</ul>{% endunless %}
+      <h1 id="y{{post.date | date: "%Y"}}">{{ currentYear }}</h1>
+      <ul>
+      {% assign previousYear = currentYear %}
+    {% endif %}
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+      <li><span>{{ post.date | date: "%b %-d, %Y" }}</span> » <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+    {% if forloop.last %}</ul>{% endif %}
+  {% endfor %}
 
 </div>

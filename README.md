@@ -1,1 +1,0 @@
-Jekyll blog for [BrockBoland.com](http://brockboland.com/).

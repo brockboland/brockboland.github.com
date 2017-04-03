@@ -14,7 +14,7 @@ I've always been the kind of person that has two or three todo lists going at on
 This makes me the perfect candidate for any one of the GTD-style task management apps that have been bandied about lately.  I've used both [OmniFocus](http://www.omnigroup.com/applications/omnifocus/) and [Things](http://www.culturedcode.com/things/) quite extensively, and hopefully this will help other people figure out which one is right for them.  But first, I should warn you: I am heavily biased towards Things.  And also, Chris Bowler of The Weekly Review has said a lot of this before, so I hope he doesn't mind that I'm going to drag him into this a few times.
 
 ## [OmniFocus](http://www.omnigroup.com/applications/omnifocus/)
-[<img src="/files/images/omni-focus.png" align='right' alt="OmniFocus icon" border=0 />](http://www.omnigroup.com/applications/omnifocus/)
+[![OmniFocus icon](/files/images/omni-focus.png)](http://www.omnigroup.com/applications/omnifocus/)
 
 ### Overview
 I spent a few months using OmniFocus for task management and tried really hard to like it.  It's got a lot of horsepower - if you want a lot of customization and need to track a ton of items, OmniFocus might be good for you.
@@ -40,7 +40,7 @@ The sync is dodgy.  The sneakypeek beta version of OmniFocus can sync its databa
 They may have improved this process since I stopped using OmniFocus a month or two ago, but I haven't tried it since.
 
 ## [Things](http://www.culturedcode.com/things/)
-[<img src="/files/images/things.png" align='right' alt="Things icon" border=0/>](http://www.culturedcode.com/things/)
+[![Things icon](/files/images/things.png)](http://www.culturedcode.com/things/)
 
 ### Overview
 If OmniFocus were a Microsoft product, Things would be the Apple equivalent.  It's simple, it's easy to use, and it's pretty to look at.

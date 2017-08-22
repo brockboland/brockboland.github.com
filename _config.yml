@@ -10,7 +10,7 @@ permalink: /:year/:month/:title
 title: Brock Boland
 email: brock@brockboland.com
 description: >
-  My name is Brock. I’m an iOS developer in Chicago, and brew beer as often as I can, because it’s obligatory once your beard gets as long as mine has.
+  My name is Brock. I’m an iOS developer in Seattle, and no longer brew beer as often as I used to, even though it’s obligatory once your beard gets as long as mine has.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://brockboland.com" # the base hostname & protocol for your site
 twitter_username: brock

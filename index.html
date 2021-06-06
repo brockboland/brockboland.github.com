@@ -1,22 +1,34 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>BrockBoland.com</title>
+  </head>
 
-<div class="home">
+  <body>
+    <h1>>Brock Boland</h1>
 
-  {% for post in site.posts limit:10 %}
-    <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+    <p>
+      <img
+        src="/files/profile.jpg"
+        alt="Profile"
+        align="right"
+        style="padding-left: 20px"
+      />
 
-      <header class="post-header">
-        <h1 class="post-title" itemprop="name headline"><a href="{{ post.url }}">{{ post.title }}</a></h1>
-        <p class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>{% if post.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>{% endif %}</p>
-      </header>
-
-      <div class="post-content" itemprop="articleBody">
-        {{ post.content }}
-      </div>
-
-    </article>
-  {% endfor %}
-
-</div>
+      My name is Brock. I’m an iOS developer in Seattle, and no longer brew beer
+      as often as I used to, even though it’s obligatory once your beard gets as
+      long as mine has.
+    </p>
+    <p>I'm not very active on social these days, but you can reach me via:</p>
+    <ul>
+      <li><a href="mailto:brock@brockboland.com">brock@brockboland.com</a></li>
+      <li>
+        <a href="https://github.com/brockboland">brockboland on Github</a>
+      </li>
+      <li><a href="https://twitter.com/brock">@brock on Twitter</a></li>
+    </ul>
+  </body>
+</html>
